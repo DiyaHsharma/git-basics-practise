@@ -3,4 +3,7 @@ package main;
 //to add all the files in a project to git, use: "git add *"
 // use "ctrl k" to save ab tak ka project progress to git
 public class Main {
+    public static void main(String[]args){
+
+    }
 }
