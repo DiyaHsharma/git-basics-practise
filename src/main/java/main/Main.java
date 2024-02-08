@@ -4,6 +4,6 @@ package main;
 // use "ctrl k" to save ab tak ka project progress to git
 public class Main {
     public static void main(String[]args){
-
+        System.out.println("My first Github Repository");
     }
 }
